@@ -7,76 +7,86 @@ function SidebarOptions() {
     <div className="sidebarOptions">
       <div className="sidebarOption">
         <img
-          src="https://48b6yd3iigex2rv7g41h5sts-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/Historical-Fiction-1024x596.jpg"
-          alt=""/>
-        <p><b>History</b></p>
+          src="https://qphs.fs.quoracdn.net/main-thumb-t-930-100-cbbsbwijdhpyzlpipejvqpiijhhoaday.jpeg"
+          alt=""
+        />
+        <p>History</p>
       </div>
 
       <div className="sidebarOption">
         <img
-          src="https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-Pod-Learn-Business-English.jpg"
-          alt=""/>
+          src="https://qphs.fs.quoracdn.net/main-thumb-t-858-100-VnZbEVtOIGkEHXlnYId9slumV59IPgkA.jpeg"
+          alt=""
+        />
 
-        <p><b>Business</b></p>
+        <p>Business</p>
       </div>
       <div className="sidebarOption">
         <img
-          src="https://executiveeducation.wharton.upenn.edu/wp-content/uploads/2018/12/1901-understanding-client-psychology.jpg"
-          alt=""/>
-        <p><b>Psychology</b></p>
-      </div>
-
-      <div className="sidebarOption">
-        <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWTMdndtlW7IQCf9iK474cYyil080IkuQTlA&usqp=CAU"
-          alt=""/>
-        <p><b>Cooking</b></p>
+          src="https://qphs.fs.quoracdn.net/main-thumb-t-1913-100-B8JrwaVauFzsaTSqXDqoWLCXzQb2mTE9.jpeg"
+          alt=""
+        />
+        <p>Psychology</p>
       </div>
 
       <div className="sidebarOption">
         <img
-          src="https://cdn.britannica.com/03/151903-131-E310E9EC/Microphone-background-sound-waves-energy-Music.jpg"
-          alt=""/>
-        <p><b>Music</b></p>
+          src="https://qphs.fs.quoracdn.net/main-thumb-t-877-100-e7jKHEQr0HExAIA9rlsyHlV6HJyRruEo.jpeg"
+          alt=""
+        />
+        <p>Cooking</p>
       </div>
 
       <div className="sidebarOption">
         <img
-          src="https://static.theprint.in/wp-content/uploads/2019/11/science.jpg"
-          alt=""/>
-        <p><b>Science</b></p>
+          src="https://qphs.fs.quoracdn.net/main-thumb-t-801-100-Sf8h894FXbQZQit0TeqDrrqS6xw6dwCQ.jpeg"
+          alt=""
+        />
+        <p>Music</p>
       </div>
 
       <div className="sidebarOption">
         <img
-          src="https://www.nutraingredients-latam.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/nutraingredients-latam.com/article/2019/09/12/nutrition-in-health-focus-could-saves-millions-of-lives-who-says/10142249-1-eng-GB/Nutrition-in-Health-Focus-Could-saves-Millions-of-Lives-WHO-says.jpg"
-          alt=""/>
-        <p><b>Health</b></p>
+          src="https://qphs.fs.quoracdn.net/main-thumb-t-931-100-c8WCPwZ9qPsh5zLGQ5wHh1ddxtc9Cch7.jpeg"
+          alt=""
+        />
+        <p>Science</p>
       </div>
 
       <div className="sidebarOption">
         <img
-          src="https://cf.ltkcdn.net/movies/images/orig/207771-1892x1588-movieconcept.jpg"
-          alt=""/>
-        <p><b>Movies</b></p>
+          src="https://qphs.fs.quoracdn.net/main-thumb-t-1140-100-24q3tiv4WhPssc5TGwf0mvCM5aiqGVXW.jpeg"
+          alt=""
+        />
+        <p>Health</p>
       </div>
 
       <div className="sidebarOption">
         <img
-          src="https://learnenglishteens.britishcouncil.org/sites/teens/files/styles/article/public/field/section/image/rs4492_177531624-low.jpg?itok=oDi1Qzl3"
-          alt=""/>
-        <p><b>Technology</b></p>
+          src="https://qphs.fs.quoracdn.net/main-thumb-t-843-100-W7FzODceTO2aQmp8D7E4rKZ8YgSv21eR.jpeg"
+          alt=""
+        />
+        <p>Movies</p>
       </div>
 
       <div className="sidebarOption">
         <img
-          src="https://149701767.v2.pressablecdn.com/wp-content/uploads/2018/03/test.png"
-          alt=""/>
-        <p><b>Education</b></p>
+          src="https://qphs.fs.quoracdn.net/main-thumb-t-2177-100-JiR07D1TQSfeQzRvWXomVaY4Poj2f8Yb.jpeg"
+          alt=""
+        />
+        <p>Technology</p>
+      </div>
+
+      <div className="sidebarOption">
+        <img
+          src="https://qphs.fs.quoracdn.net/main-thumb-t-996-100-bfZBQjeEenKKl8fcNY4tVv0FyArtB0Mb.jpeg"
+          alt=""
+        />
+        <p>Education</p>
       </div>
       <div className="sidebarOption">
-        <b><Add /></b>
-        <p className="text"><b>Discover Spaces</b></p>
+        <Add />
+        <p className="text">Discover Spaces</p>
       </div>
     </div>
   );
